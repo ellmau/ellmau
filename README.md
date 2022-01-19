@@ -9,7 +9,7 @@ My practical and technical interests are currently mainly focused on programming
 ### 🚀 Current work
 - A solver for semantics of Abstract Dialectical Frameworks, which utilises ordered binary decision diagrams [adf-obdd](https://stefan.ellmauthaler.net/adf-obdd)
 - Exploring negation for tuple generating dependencies in rule-based reasoning. See the [preprint-version](https://arxiv.org/abs/2112.07376) of the accepted [AAAI-22](https://aaai.org/Conferences/AAAI-22/) paper 
-- Teaching
+- Teaching (see my personal overview [page](https://stefan.ellmauthaler.net/teaching/) for a list)
 
 ### 📫 Contact
 - Mail: [stefan.ellmauthaler@tu-dresden.de](mailto:stefan.ellmauthaler@tu-dresden.de) (professional), [stefan.ellmauthaler@gmail.com](mailto:stefan.ellmauthaler@gmail.com) (personal)
