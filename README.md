@@ -14,7 +14,7 @@ My practical and technical interests are currently mainly focused on programming
 ### 📫 Contact
 - Mail: [stefan.ellmauthaler@tu-dresden.de](mailto:stefan.ellmauthaler@tu-dresden.de) (professional), [stefan.ellmauthaler@gmail.com](mailto:stefan.ellmauthaler@gmail.com) (personal)
 - Matrix: [@stel830c:tu-dresden.de](https://matrix.to/#/@stel830c:tu-dresden.de)
-- Whatever option you like best - have a look at my contact details on [my website](https://stafan.ellmauthaler.net)
+- Whatever option you like best - have a look at my contact details on [my website](https://stefan.ellmauthaler.net)
 - Of course, there is a [Discussions](https://github.com/ellmau/ellmau/discussions) section in my public special repository, which could be used for communicate and comment with or about me.
 
 <!--
