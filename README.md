@@ -12,10 +12,29 @@ My practical and technical interests are currently mainly focused on programming
 - Teaching (see my personal overview [page](https://stefan.ellmauthaler.net/teaching/) for a list)
 
 ### 📫 Contact
+[![Website](https://img.shields.io/badge/website-55b079?style=for-the-badge&logo=https&logoColor=white)](https://stefan.ellmauthaler.net)
+[![matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@stel830c:tu-dresden.de)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefan.ellmauthaler@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-ellmauthaler)
+[![Xing](https://img.shields.io/badge/Xing-126567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Stefan_Ellmauthaler3)
 - Mail: [stefan.ellmauthaler@tu-dresden.de](mailto:stefan.ellmauthaler@tu-dresden.de) (professional), [stefan.ellmauthaler@gmail.com](mailto:stefan.ellmauthaler@gmail.com) (personal)
 - Matrix: [@stel830c:tu-dresden.de](https://matrix.to/#/@stel830c:tu-dresden.de)
 - Whatever option you like best - have a look at my contact details on [my website](https://stefan.ellmauthaler.net)
-- Of course, there is a [Discussions](https://github.com/ellmau/ellmau/discussions) section in my public special repository. You can use tthis to communicate (and comment) with or about me.
+- [![GitHub Discussions](https://img.shields.io/github/discussions/ellmau/ellmau)](https://github.com/ellmau/ellmau/discussions) in my public special repository. You can use tthis to communicate (and comment) with or about me.
+
+### 🔭 Tech-Interests
+[![NixOS](https://img.shields.io/badge/NixOs-00308f?style=for-the-badge&logo=NixOS&logoColor=white)](https://nixos.org)
+[![emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
+[![ASP](https://img.shields.io/badge/ASP-D14836?style=for-the-badge&logo=https&logoColor=white)](https://https://www.mat.unical.it/aspcomp2013/files/ASP-CORE-2.03c.pdf)
+[![Datalog](https://img.shields.io/badge/Datalog-69487c?style=for-the-badge&logo=https&logoColor=white)](https://https://www.mat.unical.it/aspcomp2013/files/ASP-CORE-2.03c.pdf)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org)
+[![zsh](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.zsh.org)
+[![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+
+
 
 <!--
 **ellmau/ellmau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
