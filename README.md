@@ -6,6 +6,10 @@ My research interests are knowledge representation, logic programming, rule-base
 
 My practical and technical interests are currently mainly focused on programming [Rust](https://rust-lang.org) and on having a robust production-system, based on [NixOS](https://nixos.org) with flakes.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ellmau&count_private=true">
+</p>
+
 ### 🚀 Current work
 - A solver for semantics of Abstract Dialectical Frameworks, which utilises ordered binary decision diagrams [adf-obdd](https://stefan.ellmauthaler.net/adf-obdd)
 - Exploring negation for tuple generating dependencies in rule-based reasoning. See the [preprint-version](https://arxiv.org/abs/2112.07376) of the accepted [AAAI-22](https://aaai.org/Conferences/AAAI-22/) paper 
