@@ -43,6 +43,10 @@ Of course, we can keep it in github and have a public discussion in the discussi
 [![LaTex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
+### ⚡ Old projects on other source-hosting websites
+
+- [DIAMOND (on sourceforge)](https://sourceforge.net/projects/diamond-adf/): An ADF-solver, based on Answer Set Programming encodings, with various wrapper-versions, like python and c++
+- [nrpsolver (on sourceforge)](https://sourceforge.net/projects/nrpsolver/): A c++ implementation of a genetic algorithm to solve the nurse-rostering problem.
 
 
 <!--
