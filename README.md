@@ -46,7 +46,7 @@ Of course, we can keep it in github and have a public discussion in the discussi
 ### ⚡ Old projects on other source-hosting websites
 
 - [DIAMOND (on sourceforge)](https://sourceforge.net/projects/diamond-adf/): An ADF-solver, based on Answer Set Programming encodings, with various wrapper-versions, like python and c++
-- [nrpsolver (on sourceforge)](https://sourceforge.net/projects/nrpsolver/): A c++ implementation of a genetic algorithm to solve the nurse-rostering problem.
+- [nrpsolver (on sourceforge)](https://sourceforge.net/projects/nrpsolver/): A c++ implementation of a genetic algorithm to solve the nurse-rostering problem
 
 
 <!--
