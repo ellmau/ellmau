@@ -20,6 +20,7 @@ You can contact me via various web-sites:
 [![Website](https://img.shields.io/badge/website-55b079?style=for-the-badge&logo=https&logoColor=white)](https://stefan.ellmauthaler.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-ellmauthaler)
 [![Xing](https://img.shields.io/badge/Xing-126567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Stefan_Ellmauthaler3)
+<a href="https://chaos.social/@ellmau" rel="me">![Mastodon Follow](https://img.shields.io/mastodon/follow/108806020619379558?domain=https%3A%2F%2Fchaos.social&label=Mastodon&logo=mastodon&logoColor=lime&style=for-the-badge)</a>
 
 Direct communication can be done with the following means of communication: 
 
