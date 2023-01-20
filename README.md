@@ -6,7 +6,7 @@ My research interests are knowledge representation, logic programming, rule-base
 
 My practical and technical interests are currently mainly focused on programming [Rust](https://rust-lang.org) and on having a robust production-system, based on [NixOS](https://nixos.org) with flakes.
 
-[![Stefan Ellmauthaler's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellmau&count_private=true&show_icons=true)](https://github.com/ellmau)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellmau&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stefan Ellmauthaler's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellmau&show_icons=true)](https://github.com/ellmau)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellmau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🚀 Current work
