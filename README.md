@@ -1,18 +1,45 @@
 ## Hello, I am Stefan 👋
 
-I am a postdoctoral researcher in the Knowledge-based Systems group of Prof. Dr. [Markus Krötzsch](https://iccl.inf.tu-dresden.de/web/Markus_Kr%C3%B6tzsch) at TU Dresden. I received both, my B.Sc. in "Medicine and Computer Science" in 2009, as well as my diploma in "Computational Intelligence" in 2012, at the Vienna University of Technology. In 2018 I defended my doctoral thesis "Multi-Context Reasoning in Continuous Data-Flow Environments" which has been supervised by Prof. [Gerhard Brewka](http://www.informatik.uni-leipzig.de/~brewka/) at Leipzig University.
+Dr. rer. nat. | AI Researcher | Tech and AI Consultant | Project Manager |  NixOS Enthusiast | Speaker
 
-My research interests are knowledge representation, logic programming, rule-based reasoning, multi-context reasoning, nonmonotonic reasoning, and (abstract) argumentation theory.
+*With over 12 years of academic expertise in AI, knowledge representation, and computational logic, I am passionate about bringing cutting-edge Computational Intelligence (CI) solutions to real-world challenges as I transition into new frontiers.*
 
-My practical and technical interests are currently mainly focused on programming [Rust](https://rust-lang.org) and on having a robust production-system, based on [NixOS](https://nixos.org) with flakes.
+I am transitioning into the industry, bringing over a decade of research and experience in higher education, computational complexity theory, mathematical logic, and knowledge representation and reasoning. I’m passionate about leveraging my expertise with AI and I am currently in the process of founding a company, helping others identify their specific needs for various techniques, including AI, and choose the right methods.
 
-[![Stefan Ellmauthaler's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellmau&show_icons=true)](https://github.com/ellmau)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellmau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+At Leipzig University (Intelligent Systems Group), I focused on Artificial Intelligence and Knowledge Representation, working on distributed reasoning and exchange of information.
 
+At the Center of Scalable Data Analytics and Artificial Intelligence ([ScaDS.AI](https://scads.ai)), the International Center for Computational Logic ([ICCL](https://iccl.inf.tu-dresden.de)), and the Knowledge-Based Systems [Group](https://iccl.inf.tu-dresden.de/web/Wissensbasierte_Systeme/en), which are all part of TU Dresden, I focused on existential rules, argumentation theory, and ontology-based data access. There I have also been working at the industry-oriented [ITEA](https://itea4.org/) project [InnoSale](https://www.innosale.eu/consortium/) (Innovating Sales and Planning of Complex Industrial Products Exploiting Artificial Intelligence).
+
+I led the development of a software bundle to **solve argumentation problems** using Binary Decision Diagrams and No-Good Learning methods. I’ve worked on the first steps for the in-memory datalog reasoning engine Nemo too.
+
+I’m experienced in **managing IT Projects** with multiple partners from academia and industry and have a long history of **applying symbolic AI** and enabling others to understand and utilize such approaches.
+
+## 🤔 Academic education
+
+I earned my B.Sc. in "Medicine and Computer Science" in 2009 and my diploma in "Computational Intelligence" in 2012, both from the Vienna University of Technology. In 2018, I defended my [doctoral thesis](http://nbn-resolving.de/urn:nbn:de:bsz:15-qucosa2-214577) "Multi-Context Reasoning in Continuous Data-Flow Environments" under the supervision of Prof. [Gerhard Brewka](http://www.informatik.uni-leipzig.de/~brewka/) at Leipzig University.
+
+
+## 🔭 Professional activities
+My research interests include knowledge representation, logic programming, rule-based reasoning, multi-context reasoning, nonmonotonic reasoning, and (abstract) argumentation theory.
+
+Currently, I am co-organizing the Fifth International Workshop on Systems and Algorithms for Formal Argumentation ([SAFA 2024](http://safa2024.argumentationcompetition.org/)). In the [InnoSale](https://www.innosale.eu/consortium/) project, I managed tasks to represent TU Dresden as the work package lead for implementation.
+
+On the practical side, I focus on [Rust](https://rust-lang.org) programming and maintaining a robust production system based on [NixOS](https://nixos.org) with flakes. Check out my projects: [adf-obdd](https://stefan.ellmauthaler.net/adf-obdd/), my [NixOS setup](https://github.com/ellmau/nixos), and my solutions to all [Advent of Code 2021](https://adventofcode.com/2021) puzzles on [GitHub](https://github.com/ellmau/adventofcode).
+
+## 🌱 Spare time
+I voluntarily organized a weekly table tennis for employees as a Dresdner Hochschulsportzentrum ([DHSZ](https://tu-dresden.de/dhsz)) activity.
+It invited players of all levels to have a 90 minutes lunch break filled with a fun sport.
+
+[Jugger](https://jugger.org) is my second favourite sport, which I try to practice at least weekly.
+It is a dynamic and agile team sport, combining strategic fencing elements with teamwork, where players aim to outmaneuver their opponents and score by placing a foam ball on the goal.
+
+Alpine skiing is another occasional hobby of mine. I typically enjoy it during winter holidays in Austria.
+
+I also have a large collection of Kickstarter-backed games, particularly enjoying exotic and complex titles.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellmau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Current work
-- A solver for semantics of Abstract Dialectical Frameworks, which utilises ordered binary decision diagrams [adf-obdd](https://stefan.ellmauthaler.net/adf-obdd)
-- Exploring negation for tuple generating dependencies in rule-based reasoning. See the [preprint-version](https://arxiv.org/abs/2112.07376) of the accepted [AAAI-22](https://aaai.org/Conferences/AAAI-22/) paper 
-- Teaching (see my personal overview [page](https://stefan.ellmauthaler.net/teaching/) for a list)
+- Founding of a computational intelligence, artificial intelligence, and IT consulting company
 
 ### 📫 Contact
 You can contact me via various web-sites: 
@@ -24,8 +51,6 @@ You can contact me via various web-sites:
 
 Direct communication can be done with the following means of communication: 
 
-[![matrix](https://img.shields.io/badge/matrix-@stel830c:tu--dresden.de-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@stel830c:tu-dresden.de)
-[![Mail](https://img.shields.io/badge/Mail-stefan.ellmauthaler@tu--dresden.de-562f7e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefan.ellmauthaler@tu-dresden.de)
 [![Mail](https://img.shields.io/badge/Gmail-stefan.ellmauthaler@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stefan.ellmauthaler@gmail.com)
 
 Of course, we can keep it in github and have a public discussion in the discussion section of the special profile-repository: 
@@ -46,6 +71,9 @@ Of course, we can keep it in github and have a public discussion in the discussi
 
 ### ⚡ Old projects on other source-hosting websites
 
+- A solver for semantics of Abstract Dialectical Frameworks, which utilises ordered binary decision diagrams [adf-obdd](https://stefan.ellmauthaler.net/adf-obdd)
+- Exploring negation for tuple generating dependencies in rule-based reasoning. See the [preprint-version](https://arxiv.org/abs/2112.07376) of the accepted [AAAI-22](https://aaai.org/Conferences/AAAI-22/) paper 
+- Teaching (see my personal overview [page](https://stefan.ellmauthaler.net/teaching/) for a list)
 - [DIAMOND (on sourceforge)](https://sourceforge.net/projects/diamond-adf/): An ADF-solver, based on Answer Set Programming encodings, with various wrapper-versions, like python and c++
 - [nrpsolver (on sourceforge)](https://sourceforge.net/projects/nrpsolver/): A c++ implementation of a genetic algorithm to solve the nurse-rostering problem
 
