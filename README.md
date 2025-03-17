@@ -2,7 +2,7 @@
 
 Dr. rer. nat. | AI Researcher | Tech and AI Consultant | Project Manager |  NixOS Enthusiast | Speaker
 
-*With over 12 years of academic expertise in AI, knowledge representation, and computational logic, I am passionate about bringing cutting-edge Computational Intelligence (CI) solutions to real-world challenges as I transition into new frontiers.*
+*Leveraging over 12 years of academic experience in Artificial Intelligence, Knowledge Representation, and Computational Logic, I help clients and business partners identify their specific needs and then collaboratively select and implement the right solutions, including AI systems. My expertise enables informed decision-making and effective problem-solving.*
 
 I am transitioning into the industry, bringing over a decade of research and experience in higher education, computational complexity theory, mathematical logic, and knowledge representation and reasoning. I’m passionate about leveraging my expertise with AI and I am currently in the process of founding a company, helping others identify their specific needs for various techniques, including AI, and choose the right methods.
 
@@ -20,9 +20,11 @@ I earned my B.Sc. in "Medicine and Computer Science" in 2009 and my diploma in "
 
 
 ## 🔭 Professional activities
+My company, [Echo Intelligence Gmbh](https://www.echo-intelligence.at) offers consulting, project planning, and implementation of AI and IT solutions. 
+
 My research interests include knowledge representation, logic programming, rule-based reasoning, multi-context reasoning, nonmonotonic reasoning, and (abstract) argumentation theory.
 
-Currently, I am co-organizing the Fifth International Workshop on Systems and Algorithms for Formal Argumentation ([SAFA 2024](http://safa2024.argumentationcompetition.org/)). In the [InnoSale](https://www.innosale.eu/consortium/) project, I managed tasks to represent TU Dresden as the work package lead for implementation.
+I've been co-organizing the Fifth International Workshop on Systems and Algorithms for Formal Argumentation ([SAFA 2024](http://safa2024.argumentationcompetition.org/)). In the [InnoSale](https://www.innosale.eu/consortium/) project, I managed tasks to represent TU Dresden as the work package lead for implementation.
 
 On the practical side, I focus on [Rust](https://rust-lang.org) programming and maintaining a robust production system based on [NixOS](https://nixos.org) with flakes. Check out my projects: [adf-obdd](https://stefan.ellmauthaler.net/adf-obdd/), my [NixOS setup](https://github.com/ellmau/nixos), and my solutions to all [Advent of Code 2021](https://adventofcode.com/2021) puzzles on [GitHub](https://github.com/ellmau/adventofcode).
 
@@ -39,7 +41,7 @@ I also have a large collection of Kickstarter-backed games, particularly enjoyin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellmau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Current work
-- Founding of a computational intelligence, artificial intelligence, and IT consulting company
+- CEO and founder of [Echo Intelligence Gmbh](https://www.echo-intelligence.at)
 
 ### 📫 Contact
 You can contact me via various web-sites: 
