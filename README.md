@@ -14,10 +14,6 @@ I led the development of a software bundle to **solve argumentation problems** u
 
 I’m experienced in **managing IT Projects** with multiple partners from academia and industry and have a long history of **applying symbolic AI** and enabling others to understand and utilize such approaches.
 
-## 🤔 Academic education
-
-I earned my B.Sc. in "Medicine and Computer Science" in 2009 and my diploma in "Computational Intelligence" in 2012, both from the Vienna University of Technology. In 2018, I defended my [doctoral thesis](http://nbn-resolving.de/urn:nbn:de:bsz:15-qucosa2-214577) "Multi-Context Reasoning in Continuous Data-Flow Environments" under the supervision of Prof. [Gerhard Brewka](http://www.informatik.uni-leipzig.de/~brewka/) at Leipzig University.
-
 
 ## 🔭 Professional activities
 My company, [Echo Intelligence Gmbh](https://www.echo-intelligence.at) offers consulting, project planning, and implementation of AI and IT solutions. 
@@ -28,7 +24,13 @@ I've been co-organizing the Fifth International Workshop on Systems and Algorith
 
 On the practical side, I focus on [Rust](https://rust-lang.org) programming and maintaining a robust production system based on [NixOS](https://nixos.org) with flakes. Check out my projects: [adf-obdd](https://stefan.ellmauthaler.net/adf-obdd/), my [NixOS setup](https://github.com/ellmau/nixos), and my solutions to all [Advent of Code 2021](https://adventofcode.com/2021) puzzles on [GitHub](https://github.com/ellmau/adventofcode).
 
+## 🤔 Academic education
+
+I earned my B.Sc. in "Medicine and Computer Science" in 2009 and my diploma in "Computational Intelligence" in 2012, both from the Vienna University of Technology. In 2018, I defended my [doctoral thesis](http://nbn-resolving.de/urn:nbn:de:bsz:15-qucosa2-214577) "Multi-Context Reasoning in Continuous Data-Flow Environments" under the supervision of Prof. [Gerhard Brewka](http://www.informatik.uni-leipzig.de/~brewka/) at Leipzig University.
+
 ## 🌱 Spare time
+I go to have a weekly table tennis training at a club and try to go to the gym twice a week.
+
 I voluntarily organized a weekly table tennis for employees as a Dresdner Hochschulsportzentrum ([DHSZ](https://tu-dresden.de/dhsz)) activity.
 It invited players of all levels to have a 90 minutes lunch break filled with a fun sport.
 
